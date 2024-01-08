@@ -170,6 +170,6 @@ PM.png](images/img2.png)
 
 <div class="cell markdown">
 
-# All code can be found on Github
+
 
 </div>
