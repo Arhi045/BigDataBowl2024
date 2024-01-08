@@ -145,7 +145,7 @@ passFull['tackleZone_1to3'] = passFull.apply(lambda row: 1 if ((row['relative_po
 <div class="cell markdown">
 
 ![Screenshot 2024-01-07 at 9.53.10
-PM.png](b34929af-8421-498b-8aa2-3e4a3d46b480.png)
+PM.png](images/img1.png)
 
 </div>
 
@@ -158,7 +158,7 @@ PM.png](b34929af-8421-498b-8aa2-3e4a3d46b480.png)
 <div class="cell markdown">
 
 ![Screenshot 2024-01-07 at 9.55.06
-PM.png](5970ea2c-9427-4124-b28f-55abcfe4b3c8.png)
+PM.png](images/img2.png)
 
 </div>
 
